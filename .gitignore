@@ -1,0 +1,17 @@
+# Build files
+/target/
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# macOS files
+.DS_Store
