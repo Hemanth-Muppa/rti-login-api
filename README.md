@@ -4,7 +4,9 @@ This project is a complete, production-ready, and secure login API built with Ja
 
 This repository contains the full source code, configuration, and instructions needed to run and test the application.
 
+
 ## ✨ Features
+
 
 -   **Secure JWT Authentication:** Implements stateless session management using JSON Web Tokens (JWT) for secure communication between the client and server.
 -   **Account Lockout Protection:** Automatically blocks a user account for 30 minutes after 4 consecutive failed login attempts to protect against brute-force attacks.

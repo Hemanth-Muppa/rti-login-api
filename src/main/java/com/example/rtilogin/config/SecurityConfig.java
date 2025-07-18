@@ -18,6 +18,8 @@ public class SecurityConfig {
                 .antMatchers("/api/login").permitAll() // Allow public access to /api/login
                 .anyRequest().authenticated() // Secure all other endpoints
             );
+
+            
         return http.build();
     }
 }

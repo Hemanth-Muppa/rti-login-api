@@ -27,8 +27,11 @@ public class LoginHistory {
     public void setBrowser(String browser) { this.browser = browser; }
     public String getOs() { return os; }
     public void setOs(String os) { this.os = os; }
+    
     public String getUserName() { return userName; }
+
     public void setUserName(String userName) { this.userName = userName; }
     public Long getUCode() { return uCode; }
+
     public void setUCode(Long uCode) { this.uCode = uCode; }
 }
